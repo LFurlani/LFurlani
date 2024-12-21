@@ -5,15 +5,13 @@
 <!--
 **LFurlani/LFurlani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --> 
-<details>
-<summary>My languages</summary>
 
-- C
-- C#
-- Java
-- SQL
+- My languages
 
-</details>
-
+  - C
+  - C#
+  - Java
+  - SQL
+    
 <!-- - 📫 How to reach me: -->
 
