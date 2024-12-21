@@ -1,7 +1,7 @@
 ## About me
 
 - Computer Engineering student
-- 🌱 I’m currently learning JavaScript
+- Currently learning JavaScript
 <!--
 **LFurlani/LFurlani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --> 
