@@ -5,14 +5,11 @@
 **LFurlani/LFurlani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --> 
 
-- My languages
-
-  - C
-  - C++
-  - Java
-  - SQL
-  - JavaScript
-  - Go
-    
+- Programming languages: C, C++, Java, JavaScript, Go 
+- Databases: Relational databases (SQL)
+- Scripting: Bash
+- Operating systems: Linux, Windows
+- Web development: Node.js, React
+  
 <!-- - 📫 How to reach me: -->
 
